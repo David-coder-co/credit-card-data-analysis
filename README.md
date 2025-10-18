@@ -30,3 +30,6 @@ The main features of the project include:
 
 ## Architecture
 
+![Architecture](https://github.com/David-coder-co/credit-card-data-analysis/blob/c61fe8266dfaab6a32ee765c520ab5cf6a735dbb/GCP%20Project.drawio.png) 
+
+
